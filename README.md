@@ -1,29 +1,17 @@
-# JupyterLite Demo
+# Emerging Technology
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+For my 4th Year module [Emerging Technologies](https://www.gmit.ie/emerging-technologies), I have created this repository. Within the repository you will find 5 Jupyter Notbooks which cover a specific set of topics. Each notebook details sub headings which are related to the main topic. 
+<br>
+<b>The 5 Notebook Topics are:</b>
+    1. GitHub Pages<br>
+    2. Jupyter Lite<br>
+    3. Computation<br>
+    4. Fourier Transform
+    5. Quantum Computing
+<br><br>
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
+JupyterLite Instance: https://katelyngraham1.github.io/emergingtechnology2022/lab/index.html
 
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+[![Python badge](https://img.shields.io/badge/language-python3-blue)](https://www.python.org/)
+[![Jupyter notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-orange)](https://github.com/G00378925/emerging-technologies/search?l=jupyter-notebook)<br>
